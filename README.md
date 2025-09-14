@@ -18,7 +18,6 @@ It includes **authentication screens**, a **home page with categories, flash sal
 * [React Native SVG Transformer](https://github.com/kristerkari/react-native-svg-transformer) – inline SVG support
 * [JSON Server](https://github.com/typicode/json-server) – mock REST API
 
----
 
 ## 📦 Installation
 
